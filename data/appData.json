@@ -1,0 +1,541 @@
+{
+  "navbarTitle": "Marthoma Congregation MN",
+  "slideInterval": "4000",
+  "home": {
+    "slides": [
+      {
+        "image": "images/2.jpg"
+      },
+      {
+        "image": "images/3.jpg"
+      },
+      {
+        "image": "images/4.jpg"
+      },
+      {
+        "image": "images/5.jpg"
+      },
+      {
+        "image": "images/7.jpg"
+      },
+      {
+        "image": "images/6.png"
+      },
+      {
+        "image": "images/8.png"
+      },
+      {
+        "image": "images/1.jpg"
+      }
+    ]
+  },
+  "about": {
+    "slides": [
+      {
+        "image": "images/about_us.jpg"
+      }
+    ],
+    "content": {
+      "heading": "About Us",
+      "image": "images/group.jpg",
+      "body": [
+        {
+          "para": "Matthew 18:20- For where two or three gather in my name, there am I with them.",
+          "bold": true
+        },
+        {
+          "para": "Welcome to our fellowship in the name of our Lord and Savior Jesus Christ !!!"
+        },
+        {
+          "para": "If you are new to our fellowship, we'd like to take this opportunity to invite you to one of our bi-weekly gatherings. And of course, feel free to contact us with any questions you may have."
+        },
+        {
+          "para": "We hope you and your family will have a warm and spirit-filled experience with us as we worship together at our services, events, and ministries."
+        },
+        {
+          "para": "Many blessings to you,"
+        },
+        {
+          "para": "Minneapolis Marthoma Congregation",
+          "bold": true
+        }
+      ]
+    }
+  },
+  "contact": {
+    "slides": [
+      {
+        "image": "images/contact_us1.jpg"
+      }
+    ],
+    "content": {
+      "heading": "Contact Us",
+      "image": "images/map.jpg",
+      "body": [
+        {
+          "para": "Email ID: mmtc.contact@gmail.com",
+          "bold": true
+        },
+        {
+          "para": "Google Voice number: (872) 356-6820",
+          "bold": true
+        },
+        {
+          "para": "Please get in touch with us either via Email and/or Google Voice number. All emails/calls will be automatically forwarded to the Vice President & Secretary. We will strive to get in touch/respond ASAP."
+        },
+        {
+          "para": "Address:",
+          "bold": true
+        },
+        {
+          "para": "Holy Emmanuel Lutheran Church (Chapel)"
+        },
+        {
+          "para": "201 East 104th Street"
+        },
+        {
+          "para": "Bloomington, MN 55420"
+        }
+
+      ]
+    }
+  },
+  "vicar": {
+    "content": {
+      "heading": "Message from Vicar",
+      "heading2": "Rev. George Cherian",
+      "image": "images/achen.jpg",
+      "body": [
+        {
+          "para": " "
+        },
+        {
+          "para": "Dear Friends,"
+        },
+        {
+          "para": "Greetings in our Savior’s name."
+        },
+        {
+          "para": "Praise God for all the blessings showered upon us. As a community of faith, we have been able to travel together to build up each other in the faith and be a blessing to the world. It is the grace of God that strengthens and edifies us in our faith journey to be a witnessing community."
+        },
+        {
+          "para": "The land in which God has placed us is an affluent land, filled with umpteen opportunities to establish ourselves and become prosperous. However as we journey through the land we see that the values that are upheld today are for one’s selfish gains. The community around us has become individualistic, selfish, and materialistic. Amidst the prevailing selfishness and insensitivity, we are called by God and set apart to strive to establish a community founded on the kingdom values."
+        },
+        {
+          "para": "The Church is a prototype of the Kingdom of God. As families we are called to love, care and share with one another the blessings that we have received. It’s the relationship with God and with the rest of God’s creation that sets the church apart as a community of faith."
+        },
+        {
+          "para": "I am glad that through this church website we will be able to strengthen our bonds and build up each other. This website will give us the information related to our Minneapolis prayer group and its activities."
+        },
+        {
+          "para": "May God’s name be glorified through all our initiatives."
+        },
+        {
+          "para": "In Christ"
+        },
+        {
+          "para": "Rev. George Cherian"
+        }
+      ]
+    }
+  },
+  "bishop": {
+    "content": {
+      "heading": "Our Bishop",
+      "heading2": "Rt. Rev. Dr. Geevarghese Mar Theodosius Episcopa",
+      "image": "images/bishop.jpg",
+      "body": [
+        {
+          "para": " "
+        },
+        {
+          "para": "Mar Theodosius studied at Baselious College, Kottayam and Mar Thoma College, Thiruvalla. After taking a degree in Science he joined Leonard Theological College and took BD Degree in 1972. His ordination as ‘Kasseesa' was in the year 1973. In 1980, he took a Master's Degree in Comparative Religions from Visva Bharathi University and Doctorate from Mc Master University, Hamilton, Canada in 1986. He was consecrated as Episcopa on December 9, 1989 along with Mar Athanasius and Mar Coorilos."
+        },
+        {
+          "para": "From 1973 onwards, he was in charge of several parishes including Mumbai, Calcutta, Toronto and Nanthancode and he served as Director of Thomas Mar Athanasius Orientation Centre, Manganam. On consecration as Episcopa he was given charge of Kunnamkulam - Madras Diocese. He was the Episcopa of the Chennai - Bangalore and Malaysia - Singapore - Australia Dioceses. He is presently the Episcopa of the North America - Europe Diocese."
+        }
+      ]
+    }
+  },
+  "believe": {
+    "content": {
+      "heading": "What We Believe",
+      "image": "images/bible.jpg",
+      "body": [
+        {
+          "para": " "
+        },
+        {
+          "para": "We believe the Bible to be the inspired, the only infallible, authoritative Word of God and inerrant in the original writings. We believe that there is one God, eternally existing in three persons: Father, Son, and Holy Spirit. We believe in the deity of our Lord Jesus Christ, in His virgin birth, in His sinless life, in His miracles, in His vicarious and atoning death through His shed blood, in His bodily resurrection, in His ascension to the right hand of the Father, and in His personal return in power and glory."
+        },
+        {
+          "para": "We believe that the lost and sinful man must be saved, and that man's only hope of redemption is through the shed blood of Jesus Christ, the Son of God. We believe in and practice the holy ordinance of water baptism, which signifies the believer's death, burial, and resurrection into new life with Christ Jesus, and the regular celebration of Holy Communion as commanded by our Lord."
+        },
+        {
+          "para": "We believe in the present ministry and baptism of the Holy Spirit, by whose indwelling the Christian is enabled to live a Godly life. We believe in the resurrection of both the saved and the unsaved; those that are saved into the resurrection of life and those that are unsaved into the resurrection of damnation."
+        },
+        {
+          "para": "We believe in the spiritual unity of believers in our Lord Jesus Christ."
+        }
+      ]
+    }
+  },
+  "schedule": {
+    "content": {
+      "heading": "Worship Schedule and Scripture",
+      "heading2": "Schedule for the Holy Qurbaana and Divine Worship for 2016",
+      "image": "images/bible.jpg",
+      "body": [],
+      "scheduleList": [
+        {
+          "date": "January 3, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "January 23, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "Robin/Liz",
+          "portion1": "Deut. 4:1-10",
+          "reading2": "Arpith A",
+          "portion2": "1 Cor. 1:10-18"
+        },
+        {
+          "date": "February 6, 2016",
+          "time": "10: 30 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (Malayalam)",
+          "reading1": "Saju/Vincy",
+          "portion1": "Isa. 58:1-14",
+          "reading2": "Chris J",
+          "portion2": "Rom. 2:1-10"
+        },
+        {
+          "date": "February 21, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "Isaiah G",
+          "portion1": "2 Sam. 12:1-14",
+          "reading2": "Shibel M",
+          "portion2": "Acts. 8:9-17"
+        },
+        {
+          "date": "March 5, 2016",
+          "time": "10:00 AM",
+          "venue": "Como Student Community Cooperative (CSCC) Office",
+          "venueAddress": "https://www.google.com/maps/place/1024+27th+Ave+SE,+Minneapolis,+MN+55414/@44.988978,-93.2170737,17z/data=!3m1!4b1!4m2!3m1!1s0x52b32cf90c2bb3fd:0xf616e1a3d478d181?hl=en",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "Soju/Angela",
+          "portion1": "Nahum. 1:1-15",
+          "reading2": "Cyril J",
+          "portion2": "Acts. 16:25-34"
+        },
+        {
+          "date": "March 25, 2016",
+          "time": "7:00 PM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Good Friday Worship",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "March 27, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "Shaji/Suja",
+          "portion1": "Gen. 23:1-19",
+          "reading2": "Rohan T",
+          "portion2": "Col. 3:1-11"
+        },
+        {
+          "date": "April 23, 2016",
+          "time": "09:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (Malayalam)",
+          "reading1": "Visan/Remya",
+          "portion1": "",
+          "reading2": "Ivan J",
+          "portion2": ""
+        },
+        {
+          "date": "May 7, 2016",
+          "time": "10:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "Jubin/Nincy",
+          "portion1": "",
+          "reading2": "Shibel M",
+          "portion2": ""
+        },
+        {
+          "date": "May 22, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "Nebu/Suja",
+          "portion1": "",
+          "reading2": "Ashish M",
+          "portion2": ""
+        },
+        {
+          "date": "June 4, 2016",
+          "time": "10:00 AM",
+          "venue": "Savage Community Center",
+          "venueAddress": "https://www.google.com/maps/place/6000+McColl+Dr,+Savage,+MN+55378/@44.7654806,-93.3566358,17z/data=!3m1!4b1!4m2!3m1!1s0x87f63c8a3b8ce39b:0xb392ee330662e1a4",
+          "worship": "Holy Qurbaana (Malayalam)",
+          "reading1": "Jaison/Jasmin",
+          "portion1": "",
+          "reading2": "Isaiah G",
+          "portion2": ""
+        },
+        {
+          "date": "June 26, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "Shaji/Susan",
+          "portion1": "",
+          "reading2": "Arpith A",
+          "portion2": ""
+        },
+        {
+          "date": "July 9, 2016",
+          "time": "10:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "July 24, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "August 14, 2016",
+          "time": "08:30 AM",
+          "venue": "Retreat Center",
+          "venueAddress": "http://arc-aflc.org/",
+          "worship": "Holy Qurbaana (Malayalam)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "August 28, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "September 10, 2016",
+          "time": "10:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "September 25, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "October 1, 2016",
+          "time": "10:30 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (Malayalam)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "October 23, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "November 5, 2016",
+          "time": "10:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "November 20, 2016",
+          "time": "11:00 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Divine Service (English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "December 3, 2016",
+          "time": "10:30 AM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Holy Qurbaana (Malayalam)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        },
+        {
+          "date": "December 31, 2016",
+          "time": "9:00 PM",
+          "venue": "Holy Emmanuel (chapel)",
+          "venueAddress": "https://www.google.com/maps/place/Holy+Emmanuel+Lutheran+Church/@44.8146107,-93.2774262,17z/data=!3m1!4b1!4m2!3m1!1s0x87f625465f7133bd:0xfb96a78f2c8bb032",
+          "worship": "Watch Night Service (Malayalam/English)",
+          "reading1": "",
+          "portion1": "",
+          "reading2": "",
+          "portion2": ""
+        }
+      ]
+    }
+  },
+  "committee": {
+    "content": {
+      "heading": "Committee members 2016",
+      "body": [],
+      "members": [
+        {
+          "name": "Rev George Cherian",
+          "title": "Vicar and President"
+        },
+        {
+          "name": "Robin Alex",
+          "title": "Secretary"
+        },
+        {
+          "name": "Philip George",
+          "title": "Trustee"
+        },
+        {
+          "name": "Shaji Thomas",
+          "title": "Vice President"
+        },
+        {
+          "name": "Jenu John",
+          "title": "Treasurer"
+        }
+      ]
+    }
+  },
+  "events": {
+    "content": {
+      "heading": "Church Events",
+      "body": [],
+      "eventList": [
+        {
+          "date": "",
+          "event": "Sevika Sanghom Bake Auction",
+          "time": "",
+          "venue": ""
+        },
+        {
+          "date": "",
+          "event": "Sunday School Picnic",
+          "time": "",
+          "venue": ""
+        },
+        {
+          "date": "",
+          "event": "First Fruit Auction",
+          "time": "",
+          "venue": ""
+        },
+        {
+          "date": "March 25, 2016 - March 25, 2016",
+          "event": "Good Friday Service",
+          "time": "07:00 PM",
+          "venue": "Holy Emmanuel Church"
+        },
+        {
+          "date": "August 12, 2016 - August 14, 2016",
+          "event": "Church Retreat",
+          "time": "6:00 PM",
+          "venue": "ARC Retreat center Osceola, WI"
+        },
+        {
+          "date": "December 2, 2016 - December 2, 2016",
+          "event": "Christmas Carol",
+          "time": "",
+          "venue": "Holy Emmanuel Church"
+        },
+        {
+          "date": "December 3, 2016 - December 4, 2016",
+          "event": "Christmas House to House caroling",
+          "time": "",
+          "venue": ""
+        },
+        {
+          "date": "December 31, 2016 - January 1, 2017",
+          "event": "New Year Watch Night Service",
+          "time": "9:00 PM",
+          "venue": "Holy Emmanuel Church"
+        }
+      ]
+    }
+  }
+}

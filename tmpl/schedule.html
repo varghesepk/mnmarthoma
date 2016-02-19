@@ -1,0 +1,77 @@
+<div id="schedule" ng-init="init()">
+
+  <div ng-include src="'tmpl/navbar.html'"></div>
+
+  <div ng-include src="'tmpl/carousel.html'"></div>
+
+  <!-- <div ng-include src="'tmpl/content.html'"></div> -->
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+
+    <div class="row featurette">
+      <div class="col-md-12">
+        <h2 class="featurette-heading">{{content.heading}}<br><small><span class="text-muted">{{content.heading2}}</span></small></h2>
+        <p class="lead" ng-repeat="body in content.body" ng-class="{'text-bold': body.bold}">
+          {{body.para}}
+        </p>
+      </div>
+      <div class="col-md-12">
+
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="table-responsive">
+              <table class="table schedule-table">
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Venue</th>
+                    <th>Worship</th>
+                    <th>Bible Reading 1</th>
+                    <th>Portion</th>
+                    <th>Bible Reading 2</th>
+                    <th>Portion</th>
+                  </tr>
+                </thead>
+                <tbody
+
+                  <tr ng-repeat="schedule in content.scheduleList">
+                    <td>{{schedule.date}}</td>
+                    <td>{{schedule.time}}</td>
+                    <td><a href="{{schedule.venueAddress}}" target="_blank">{{schedule.venue}}</a></td>
+                    <td>{{schedule.worship}}</td>
+                    <td>{{schedule.reading1}}</td>
+                    <td>{{schedule.portion1}}</td>
+                    <td>{{schedule.reading2}}</td>
+                    <td>{{schedule.portion2}}</td>
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+
+    <!-- FOOTER -->
+    <footer>
+      <p>&copy; 2016 Mar Thoma Church, Minneapolis, Minnesotta.</p>
+    </footer>
+
+  </div><!-- /.container -->
+
+
+</div>

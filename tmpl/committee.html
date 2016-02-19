@@ -1,0 +1,65 @@
+<div id="committee" ng-init="init()">
+
+  <div ng-include src="'tmpl/navbar.html'"></div>
+
+  <div ng-include src="'tmpl/carousel.html'"></div>
+
+  <!-- <div ng-include src="'tmpl/content.html'"></div> -->
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+
+    <div class="row featurette">
+      <div class="col-md-12">
+        <h2 class="featurette-heading">{{content.heading}}<br><small><span class="text-muted">{{content.heading2}}</span></small></h2>
+        <p class="lead" ng-repeat="body in content.body" ng-class="{'text-bold': body.bold}">
+          {{body.para}}
+        </p>
+      </div>
+      <div class="col-md-8">
+
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="table-responsive">
+              <table class="table committee-table">
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>Title</th>
+                  </tr>
+                </thead>
+                <tbody
+
+                  <tr ng-repeat="member in content.members">
+                    <td>{{member.name}}</td>
+                    <td>{{member.title}}</td>
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+
+    <!-- FOOTER -->
+    <footer>
+      <p>&copy; 2016 Mar Thoma Church, Minneapolis, Minnesotta.</p>
+    </footer>
+
+  </div><!-- /.container -->
+
+
+</div>

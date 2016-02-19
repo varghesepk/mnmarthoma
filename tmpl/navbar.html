@@ -1,0 +1,43 @@
+<div class="navbar-wrapper">
+  <div class="container">
+
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#/">{{appData.navbarTitle}}</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li ng-class="{active: active=='home'}"><a href="#/">Home</a></li>
+            <li ng-class="{active: active=='about'}"><a href="#/about">About</a></li>
+            <li ng-class="{active: active=='contact'}"><a href="#/contact">Contact</a></li>
+            <li class="dropdown" ng-class="{active: active=='more'}">
+              <a href="javascript:void(0)" uib-dropdown-toggle class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></span>
+              <ul class="dropdown-menu" uib-dropdown-menu>
+                <li><a href="#/vicar">Our Vicar</a></li>
+                <li><a href="#/bishop">Our Bishop</a></li>
+                <li><a href="#/committee">Committee Members</a></li>
+                <li><a href="#/believe">What We Believe</a></li>
+                <li><a href="#/schedule">Worship Schedule</a></li>
+                <li><a href="#/events">Church Events</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Related Links</li>
+                <li><a href="http://marthoma.in/lectionary" target="_blank">Lectionary</a></li>
+                <li><a href="http://marthoma.in/" target="_blank">Marthoma Global</a></li>
+                <li><a href="https://www.marthomanae.org/website/" target="_blank">Marthoma Diocese of North America & Europe</a></li>
+                <li><a href="http://mtconvention.com/home/" target="_blank">Maramon Convention</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+  </div>
+</div>

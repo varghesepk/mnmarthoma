@@ -1,0 +1,31 @@
+<!-- Marketing messaging and featurettes
+================================================== -->
+<!-- Wrap the rest of the page in another container to center all the content. -->
+
+<div class="container marketing">
+
+
+  <div class="row featurette">
+    <div class="col-md-8">
+      <h2 class="featurette-heading">{{content.heading}}<br><small><span class="text-muted">{{content.heading2}}</span></small></h2>
+      <p class="lead" ng-repeat="body in content.body" ng-class="{'text-bold': body.bold}">
+        {{body.para}}
+      </p>
+    </div>
+    <div class="col-md-4">
+      <img class="featurette-image img-responsive center-block" ng-show="content.image" src="{{content.image}}" alt="Generic placeholder image">
+    </div>
+  </div>
+
+
+  <hr class="featurette-divider">
+
+  <!-- /END THE FEATURETTES -->
+
+
+  <!-- FOOTER -->
+  <footer>
+    <p>&copy; 2016 Mar Thoma Church, Minneapolis, Minnesotta.</p>
+  </footer>
+
+</div><!-- /.container -->
