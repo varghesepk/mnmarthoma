@@ -99,6 +99,15 @@ body {
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
+@media (min-width: 320px) {
+  /* Carousel base class */
+  .carousel,
+  .carousel .item,
+  .carousel-inner > .item > img {
+    height: 200px;
+  }
+}
+
 @media (min-width: 768px) {
   /* Navbar positioning foo */
   .navbar-wrapper {
@@ -128,11 +137,24 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+
+  /* Carousel base class */
+  .carousel,
+  .carousel .item,
+  .carousel-inner > .item > img {
+    height: 300px;
+  }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1025px) {
   .featurette-heading {
     /*margin-top: 120px;*/
+  }
+  /* Carousel base class */
+  .carousel,
+  .carousel .item,
+  .carousel-inner > .item > img {
+    height: 500px;
   }
 }
 
